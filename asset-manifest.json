@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/tafhimhasan/Simple-todo-with-Reactjs/static/css/main.3de9f4e4.chunk.css",
+    "main.js": "/tafhimhasan/Simple-todo-with-Reactjs/static/js/main.c1a4a148.chunk.js",
+    "main.js.map": "/tafhimhasan/Simple-todo-with-Reactjs/static/js/main.c1a4a148.chunk.js.map",
+    "runtime-main.js": "/tafhimhasan/Simple-todo-with-Reactjs/static/js/runtime-main.42621975.js",
+    "runtime-main.js.map": "/tafhimhasan/Simple-todo-with-Reactjs/static/js/runtime-main.42621975.js.map",
+    "static/js/2.78de81ee.chunk.js": "/tafhimhasan/Simple-todo-with-Reactjs/static/js/2.78de81ee.chunk.js",
+    "static/js/2.78de81ee.chunk.js.map": "/tafhimhasan/Simple-todo-with-Reactjs/static/js/2.78de81ee.chunk.js.map",
+    "index.html": "/tafhimhasan/Simple-todo-with-Reactjs/index.html",
+    "precache-manifest.e9034b89fb2df1c644978ed242093d17.js": "/tafhimhasan/Simple-todo-with-Reactjs/precache-manifest.e9034b89fb2df1c644978ed242093d17.js",
+    "service-worker.js": "/tafhimhasan/Simple-todo-with-Reactjs/service-worker.js",
+    "static/css/main.3de9f4e4.chunk.css.map": "/tafhimhasan/Simple-todo-with-Reactjs/static/css/main.3de9f4e4.chunk.css.map",
+    "static/js/2.78de81ee.chunk.js.LICENSE.txt": "/tafhimhasan/Simple-todo-with-Reactjs/static/js/2.78de81ee.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.42621975.js",
+    "static/js/2.78de81ee.chunk.js",
+    "static/css/main.3de9f4e4.chunk.css",
+    "static/js/main.c1a4a148.chunk.js"
+  ]
+}
